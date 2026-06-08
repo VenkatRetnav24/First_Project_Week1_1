@@ -1,0 +1,4 @@
+oepnai
+dotenv
+pydantic
+streamlit
